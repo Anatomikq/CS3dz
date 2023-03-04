@@ -1,0 +1,15 @@
+C:\Git\Cs3dz\bin\Debug\net6.0\Cs3dz.exe
+C:\Git\Cs3dz\bin\Debug\net6.0\Cs3dz.deps.json
+C:\Git\Cs3dz\bin\Debug\net6.0\Cs3dz.runtimeconfig.json
+C:\Git\Cs3dz\bin\Debug\net6.0\Cs3dz.dll
+C:\Git\Cs3dz\bin\Debug\net6.0\Cs3dz.pdb
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.csproj.AssemblyReference.cache
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.AssemblyInfoInputs.cache
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.AssemblyInfo.cs
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.csproj.CoreCompileInputs.cache
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.dll
+C:\Git\Cs3dz\obj\Debug\net6.0\refint\Cs3dz.dll
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.pdb
+C:\Git\Cs3dz\obj\Debug\net6.0\Cs3dz.genruntimeconfig.cache
+C:\Git\Cs3dz\obj\Debug\net6.0\ref\Cs3dz.dll
